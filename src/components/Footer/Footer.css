@@ -1,0 +1,15 @@
+.footer{
+   background-color: black;
+}
+.buttlet li{
+    list-style: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.buttlet li a{
+    text-decoration: none;
+    color:#dededebd;
+}
+.buttlet li a:hover{
+    border-bottom: 1px solid gray;
+}
